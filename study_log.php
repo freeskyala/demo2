@@ -1,3 +1,7 @@
+111111111111
+111111111111
+222222222222
+
 一 安装 设置git
 yum -y install git-all.noarch
 git config --global user.name 'good2'
